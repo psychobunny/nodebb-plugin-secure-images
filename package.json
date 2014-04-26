@@ -1,0 +1,33 @@
+{
+  "name": "nodebb-plugin-secure-images",
+  "version": "0.0.1",
+  "description": "NodeBB Secure Images",
+  "main": "library.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/psychobunny/nodebb-plugin-secure-images"
+  },
+  "keywords": [
+    "nodebb",
+    "plugin",
+    "secure",
+    "images",
+    "embed",
+    "ssl"
+  ],
+  "author": {
+    "name": "psychobunny",
+    "email": "psycho.bunny@hotmail.com"
+  },
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/psychobunny/nodebb-plugin-secure-images/issues"
+  },
+  "readme": "",
+  "readmeFilename": "README.md",
+  "_id": "nodebb-plugin-secure-images@0.0.1",
+  "_from": "nodebb-plugin-secure-images@~0.0.1"
+}

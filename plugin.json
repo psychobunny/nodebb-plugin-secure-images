@@ -1,0 +1,10 @@
+{
+	"id": "nodebb-plugin-secure-images",
+	"name": "NodeBB Secure Images",
+	"description": "This NodeBB plugin converts embedded images from http to https",
+	"url": "https://github.com/psychobunny/nodebb-plugin-secure-images",
+	"library": "./library.js",
+	"hooks": [
+		{ "hook": "filter:post.parse", "method": "parse", "callbacked": true, "priority": 6 }
+	]
+}
